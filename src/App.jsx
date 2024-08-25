@@ -56,7 +56,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>JSON Inp</h1>
+            <h1>JSON Input</h1>
             <textarea 
                 value={jsonInput} 
                 onChange={handleInputChange} 
